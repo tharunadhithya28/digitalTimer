@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.playResetContainer {
+  display: flex;
+}
+.timerContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 600px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.timer {
+  display: flex;
+}
+.bottomContainer {
+  display: flex;
+}
+.white {
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
